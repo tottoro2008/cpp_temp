@@ -45,9 +45,7 @@ int main(){
 
 using namespace std;
 using ll = long long;
-using vi vector<int>;
-
-
+using vi = vector<int>;
 
 #define rep(i, n) for (int i = 0; i < (n); ++i)
 #define all(x) (x).begin(), (x).end()
@@ -56,7 +54,6 @@ using vi vector<int>;
 #define yes(cond) cout << ((cond) ? "Yes" : "No") << endl
 
 /**************************************/
-
 
 
 #define INCLUDED_MAIN
