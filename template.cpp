@@ -1,7 +1,7 @@
 #ifdef INCLUDED_MAIN
 
 struct Solution {
-    stringstream out; const static bool kReadTestCases = 1;
+    stringstream out; const static bool kReadTestCases = 0;
 
     inline void Solve() {
         
