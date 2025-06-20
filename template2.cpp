@@ -24,7 +24,6 @@
 #include <iomanip>
 
 using namespace std;
-using ll = long long;
 using vi = vector<int>;
 
 #define GET_MACRO(_1, _2, _3, NAME, ...) NAME
@@ -32,7 +31,7 @@ using vi = vector<int>;
 #define _FOR2(i, n) for (int i = 0; i < (n); i++)
 #define _FOR3(i, a, b) for (int i = (a); i < (b); i++)
 #define endl '\n'
-
+#define int long long
 #define rep(i, n) for (int i = 0; i < (n); ++i)
 #define all(x) (x).begin(), (x).end()
 #define ssort(v) sort(all(v))
